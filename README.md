@@ -1,3 +1,3 @@
 # movie_web Clone coding
-##React
-[url]
+## React
+[url](https://kimsr96.github.io/movie_web/)
